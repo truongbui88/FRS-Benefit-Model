@@ -1,0 +1,13 @@
+name: FRS_Benefit_Model
+title: FRS_Benefit_Model
+username:
+account: reason
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5487503
+bundleId: 5495820
+url: https://reason.shinyapps.io/FRS_Benefit_Model/
+when: 1642828945.45536
+lastSyncTime: 1642828945.45537
+asMultiple: FALSE
+asStatic: FALSE
