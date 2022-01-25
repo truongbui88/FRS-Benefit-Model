@@ -388,7 +388,10 @@ benefit_cal <- function(
 #                      expand = c(0,0)) +
   
   
-
+# attrition <- benefit_cal(output = "attrition", ea = 27)
+# 
+# ggplot(attrition, aes(x = Age, y = RemainingProb)) +
+#   geom_line()
 
 
 # 
